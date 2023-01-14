@@ -33,3 +33,6 @@ Install npm packages
 * cd client
 * npm install antd
 * npm start
+
+![Capture2](https://user-images.githubusercontent.com/106020730/212477321-b79715ea-201a-4a4d-99c6-e56394f20c6b.PNG)
+
