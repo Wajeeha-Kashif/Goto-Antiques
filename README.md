@@ -2,6 +2,7 @@
 
 ## Built With
 
+* Kali Linux - Software
 * Reactjs - Frontend
 * Ethereum - Blockchain Network
 * Solidity - Smart Contracts
