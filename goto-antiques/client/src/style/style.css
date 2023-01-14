@@ -1,0 +1,18 @@
+.logo{
+    text-align: center;
+    margin: 15px 0;
+}
+
+.logo-title{
+    letter-spacing: 1.3px;
+    color: #ffffff;
+}
+
+.ant-layout-content{
+height: 100vh;
+background-color: black;
+}
+
+.textcolor{
+color: white;
+}
