@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React, { useState } from "react"
 import Headerr from "../components/Header";
 import '../style/style.css'
 
